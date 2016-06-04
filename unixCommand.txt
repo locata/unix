@@ -1,0 +1,16 @@
+
+git clone https://github.com/locata/newGitTest.git
+
+git status
+
+git add index.html
+
+git init
+git config user.name "loa"
+git config user.email "cml@yahoo.com"
+git add *
+git commit -m "added index.html file"
+
+git push -u origin master
+
+git add -A
